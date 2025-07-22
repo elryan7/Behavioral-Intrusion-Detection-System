@@ -1,7 +1,9 @@
 # Behavioral Intrusion Detection System
 
 *Author*: elryan7\
+
 *Repository*: https://github.com/elryan7/behavioral-ids\
+
 *License*: MIT
 
 ## Description
